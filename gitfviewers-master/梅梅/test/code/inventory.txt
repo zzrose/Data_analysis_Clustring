@@ -1,0 +1,89 @@
+skimmed milk
+10
+
+chips
+20
+
+olive oil
+10
+
+biscuits
+30
+
+pasta
+12
+
+cheese
+15
+
+bread
+30
+
+orange juise
+10
+
+fullcream milk
+15
+
+rice
+40
+
+whole chiken
+30
+
+toothpaste
+20
+
+hand soap
+8
+
+cereal box
+30
+
+water bottle
+40
+
+detergent powder
+20
+
+honey
+15
+
+butter
+7
+
+cake
+12
+
+cookies
+40
+
+chocolate bar
+18
+
+crackers
+25
+
+tomato paste
+10
+
+salt
+15
+
+sugar
+28
+
+white mushrooms
+10
+
+coffee
+14
+
+green beans
+12
+
+green tea
+10
+
+nutella
+8
